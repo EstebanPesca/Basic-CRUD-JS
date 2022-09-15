@@ -1,0 +1,36 @@
+.createPersonForm,
+.updatePerson{
+    display: none;
+}
+
+#tablePeople{
+    margin: 0;
+    padding: 0;
+}
+
+.buttonUpdate{
+    height: 12px;
+    width: 12px;
+    cursor: pointer;
+}
+
+
+.buttonDelete{
+    height: 15px;
+    width: 15px;
+    cursor: pointer;
+}
+
+
+.container_input{
+    margin-top: 20px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.input{ 
+    margin: 2px;
+    height: 30px;
+    width: 150px;
+}
